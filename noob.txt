@@ -1,0 +1,4 @@
+This txt is added by cat command Ikr am genius 
+
+but forgot to save the text in VI command
+type :w to save that shit 
